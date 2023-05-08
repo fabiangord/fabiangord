@@ -2,6 +2,8 @@
 
 # 📌 Sobre mí
 
+Hola, soy Fabián Gordillo, actualmente estoy en desarrollo como Full Stack Developer, puedes ver algunos de mis trabajos...
+
 ## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabi%C3%A1n-esteban-gordillo-pe%C3%B1a-56723124a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabian.gordillo.dev@gmail.com)
 
